@@ -1,0 +1,25 @@
+{
+  "name": "ignews",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.6",
+    "@types/react": "^17.0.33",
+    "next": "12.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "sass": "^1.43.4",
+    "stripe": "^8.186.1",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.2"
+  }
+}
